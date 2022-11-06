@@ -1,2 +1,3 @@
-# cli-joke
-Prints a random joke
+# CLI Joke
+
+Prints a random joke.
